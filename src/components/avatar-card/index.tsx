@@ -48,7 +48,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
             >
               {
                 <LazyImage
-                  src="https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/418430294_6901426353246288_6043178626564194534_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=XYGZ9hsuUzgAX8aLAZe&_nc_ht=scontent.fasu9-1.fna&oh=00_AfCGYZE6AwUeZGTUlaoHTHUavSgZJEJlNQV-0m_X6XAU_w&oe=65B316F9"
+                  src="/profile.jpg"
                   alt={profile.name}
                   placeholder={skeleton({
                     widthCls: 'w-full',
